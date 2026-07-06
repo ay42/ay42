@@ -1,5 +1,3 @@
-# Alexander Young
-
 **Senior iOS engineer — Swift & SwiftUI.** I build iOS apps and the tools underneath them.
 
 - Author of the open-source SwiftUI libraries **swiftui-grid**, **swiftui-sliders** and **swiftui-charts** — ~3,000★ combined, used in production apps worldwide (pinned below).
